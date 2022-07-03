@@ -3,7 +3,6 @@ Breast cancer detection using AI and data sets from kaggle and data.i
 # Breast Cancer Detection
 Breast Cancer Detection Using Machine Learning
 
-<img src="https://cdn-images-1.medium.com/max/2600/1*gNcFEL1cpGpDC4vo1zUAWA.png" />
 
 # What is Breast Cancer?
 
